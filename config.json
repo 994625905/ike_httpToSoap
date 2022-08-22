@@ -1,0 +1,5 @@
+{
+  "userManager": {
+    "server": "http://localhost:9000/HelloWorld"
+  }
+}

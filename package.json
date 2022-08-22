@@ -1,0 +1,7 @@
+{
+  "name": "ike_httpToSoap",
+  "version": "1.0.0",
+  "dependencies": {
+    "soap": "^0.29.0"
+  }
+}
